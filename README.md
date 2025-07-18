@@ -16,7 +16,7 @@
 > LOS NUMEROS NO SON BOTS Y EN EL GRUPO NO SE PERMITEN NUMEROS QUE SEAN BOTS
 
 ### `💰 DONAR 💰`
-- AGRADECE CON UNA DONACION VOLUNTARIA [Aqui](https://www.paypal.me/TheShadowBrokers133)
+- AGRADECE CON UNA DONACION VOLUNTARIA [Aqui](https://www.paypal.me/picolas)
 
 ### `⚙️ AJUSTES ⚙️`
 - CLONAR EL REPOSITORIO [Aqui](https://github.com/BrunoSobrino/SimpleBot/fork)
